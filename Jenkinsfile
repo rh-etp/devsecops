@@ -164,6 +164,12 @@ node('maven') {
         """
     }
 
+    //OR Use Arachni instead of OWASP
+    stage('Arachni scan for api'){
+        //https://wiki.jenkins.io/display/JENKINS/Arachni+Scanner+plugin
+        
+    }
+
     stage('Vegeta based stress testing'){
         sh """
             #make sure vegeata is available - https://github.com/tsenart/vegeta
