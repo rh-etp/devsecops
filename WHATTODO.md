@@ -6,6 +6,8 @@
 - Application penetration testing
 - Application stress testing
 - Static code analysis (e.g. SONAR)
+- IDEA: validate swagger API for security descriptors, post deployment validate type/scheme against 3scale configuration
+
 
 # Week 2 (Runtime/Container Scope)
 - Container scan (Openscap or clair or whatever)

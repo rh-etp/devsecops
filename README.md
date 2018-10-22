@@ -7,7 +7,7 @@ _______________________________
 This section describes the steps to run a very basic devsecops pipeline. The file is available in this repo under the name of Jenkinsfile. The example spring application is [forked](https://github.com/masoodfaisal/todo-spring-be)
 
 
-# Pre-requistie software
+# Pre-requisite software
 - Please install [docker](https://www.docker.com/get-started)
 - Locally run [Jenkins](https://jenkins.io/doc/book/installing/#war-file)
 - [Clair scanner](https://github.com/arminc/clair-scanner/releases) is available
